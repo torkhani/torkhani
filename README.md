@@ -1,5 +1,5 @@
 ## Hi there 👋
-🎓 Hey, I'm Moetaz, a **Full-Stack Web Developer** with a focus on creating exceptional user experiences using technologies like **Php**, **Symfony**, **React js**, **Vue.js** and **Salesforce**.
+🎓 Hey, I'm Moetaz, a **Full-Stack Web Developer** with a focus on creating exceptional web application using technologies like **Php**, **Symfony**, **React js**, **Vue.js** and **Salesforce**.
 
 ## 🏅 Achievements
 
