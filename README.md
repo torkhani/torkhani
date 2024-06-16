@@ -13,7 +13,7 @@
 ![php](https://img.shields.io/badge/php-38B2AC?style=for-the-badge&logo=php&logoColor=white)
 ![symfony](https://img.shields.io/badge/Symfony-339933?style=for-the-badge&logo=symfony&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![reactjs](https://img.shields.io/badge/React.js-00C58E?style=for-the-badge&logo=react.js&logoColor=white)
+![reactjs](https://img.shields.io/badge/React.js-00C58E?style=for-the-badge&logo=react&logoColor=white)
 ![vuejs](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![salesforce](https://img.shields.io/badge/salesforce-38B2AC?style=for-the-badge&logo=php&logoColor=white)
 ![mysql](https://img.shields.io/badge/Symfony-339933?style=for-the-badge&logo=mysql&logoColor=white)
